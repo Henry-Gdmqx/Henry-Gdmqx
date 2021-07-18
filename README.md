@@ -2,7 +2,7 @@
 - 👀 I’m interested in all sorts of things, mainly learning now
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at henryfoxon@googlemail.com
+- 📫 How to reach me at...
 
 <!---
 Henry-Gdmqx/Henry-Gdmqx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
